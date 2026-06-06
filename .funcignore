@@ -1,0 +1,10 @@
+.git*
+.vscode/
+coverage/
+dist/**/*.spec.js
+node_modules/
+src/**/*.spec.ts
+local.settings.json
+.env
+.env.local
+*.log
